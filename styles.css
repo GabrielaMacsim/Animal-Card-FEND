@@ -6,13 +6,13 @@
   border: 3px solid #581845  ;
   border-radius: 3px;
   box-shadow: 0 0 20px 5px grey,
-              inset 0 0 50px 5px #83A850;
-  background-color: #AFE06B;
+              inset 0 0 50px 5px #6B8E23;
+  background-color: #9ACD32;
 
 }
 
 .header {
-  border: 3px solid #581845  ;
+  border: 2px solid black  ;
   padding: 5px;
   font-family: 'Cinzel', serif;
   text-align: center;
@@ -26,12 +26,12 @@ img {
   width: 100%;
   border-radius: 5%;
   box-sizing: border-box;
-  border: 3px solid #581845  ;
+  border: 3px solid black  ;
   margin-bottom: 10px;
 }
 
 .content {
-  border: 3px solid #581845  ;
+  border: 2px solid black  ;
   padding: 5px;
   font-family: serif, "times new roman";
   background-color: #900C3F;
